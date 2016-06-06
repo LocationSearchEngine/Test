@@ -5,4 +5,4 @@ Test Repository
 いろいろ試しに __commit__ とか __pullrequest__ とか飛ばしてみて
 遊んでください．
 
-追記::
+追記:::
